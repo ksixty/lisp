@@ -1,0 +1,3 @@
+#+TITLE: Lisp Exercises
+
+Random algorithms and whatnot...
